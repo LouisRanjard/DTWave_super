@@ -1,2 +1,7 @@
 # DTWave_super
-Sound recognition using deep learning and dynamic time warping
+Supervised sound recognition using deep learning and dynamic time warping
+
+
+
+--
+Copyright (c) 2016, Louis Ranjard
